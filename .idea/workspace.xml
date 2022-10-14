@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d55b3e91-474a-4d75-b3e2-3c631f7a7f9b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com_dol_tests/utils/BrowserUtils.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EM0JTh3c2bfFIj1PWIHbLEQbcI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/User/seleniumProjectB24",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn test" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.P6_MultipleButtonXpathTest">
+    <configuration name="P6_MultipleButtonXpathTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com_dol_tests.day05_xpath_css_isdisplayed.P6_MultipleButtonXpathTest" />
+      <module name="seleniumProjectB24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com_dol_tests.day05_xpath_css_isdisplayed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonDepartmentList" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProjectB24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com_dol_tests.day10_dropdown_alerts_iframes_windows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com_dol_tests.day10_dropdown_alerts_iframes_windows" />
+      <option name="MAIN_CLASS_NAME" value="com_dol_tests.day10_dropdown_alerts_iframes_windows.AmazonDepartmentList" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AmazonDepartmentList.amazonDepartmentTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProjectB24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com_dol_tests.day10_dropdown_alerts_iframes_windows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com_dol_tests.day10_dropdown_alerts_iframes_windows" />
+      <option name="MAIN_CLASS_NAME" value="com_dol_tests.day10_dropdown_alerts_iframes_windows.AmazonDepartmentList" />
+      <option name="METHOD_NAME" value="amazonDepartmentTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiSelectDropDown" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProjectB24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com_dol_tests.day10_dropdown_alerts_iframes_windows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com_dol_tests.day10_dropdown_alerts_iframes_windows" />
+      <option name="MAIN_CLASS_NAME" value="com_dol_tests.day10_dropdown_alerts_iframes_windows.MultiSelectDropDown" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiSelectDropDown.selectMultipleLanguagesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="seleniumProjectB24" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com_dol_tests.day10_dropdown_alerts_iframes_windows.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com_dol_tests.day10_dropdown_alerts_iframes_windows" />
+      <option name="MAIN_CLASS_NAME" value="com_dol_tests.day10_dropdown_alerts_iframes_windows.MultiSelectDropDown" />
+      <option name="METHOD_NAME" value="selectMultipleLanguagesTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.P6_MultipleButtonXpathTest" />
+        <item itemvalue="TestNG.AmazonDepartmentList.amazonDepartmentTest" />
+        <item itemvalue="TestNG.MultiSelectDropDown" />
+        <item itemvalue="TestNG.MultiSelectDropDown.selectMultipleLanguagesTest" />
+        <item itemvalue="TestNG.AmazonDepartmentList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d55b3e91-474a-4d75-b3e2-3c631f7a7f9b" name="Changes" comment="" />
+      <created>1662390076536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662390076536</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com_dol_tests/day04_locators_getattribute/PercentageCalculatorTest.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com_dol_tests/day05_xpath_css_isdisplayed/TC3_ForgotPassword.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

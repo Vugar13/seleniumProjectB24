@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-05T23:31:57 EDT" name="Command line suite" finished-at="2022-10-05T23:32:27 EDT" duration-ms="29783">
+    <groups>
+    </groups>
+    <test started-at="2022-10-05T23:31:57 EDT" name="Command line test" finished-at="2022-10-05T23:32:27 EDT" duration-ms="29783">
+      <class name="com_dol_tests.day10_dropdown_alerts_iframes_windows.CarGurusUsedCarSearchTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_dol_tests.day10_dropdown_alerts_iframes_windows.CarGurusUsedCarSearchTest@4efbca5a]" started-at="2022-10-05T23:32:08 EDT" name="setUp" finished-at="2022-10-05T23:32:14 EDT" duration-ms="6144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchForMinivan()[pri:0, instance:com_dol_tests.day10_dropdown_alerts_iframes_windows.CarGurusUsedCarSearchTest@4efbca5a]" started-at="2022-10-05T23:32:14 EDT" name="searchForMinivan" finished-at="2022-10-05T23:32:26 EDT" duration-ms="11937" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchForMinivan -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_dol_tests.day10_dropdown_alerts_iframes_windows.CarGurusUsedCarSearchTest@4efbca5a]" started-at="2022-10-05T23:32:26 EDT" name="tearDown" finished-at="2022-10-05T23:32:27 EDT" duration-ms="892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com_dol_tests.day10_dropdown_alerts_iframes_windows.CarGurusUsedCarSearchTest -->
+      <class name="com_dol_tests.day09_testng_dropdowns.DropDownTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.DropDownTest@dd8ba08]" started-at="2022-10-05T23:31:57 EDT" name="setUp" finished-at="2022-10-05T23:32:05 EDT" duration-ms="7541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="simpleDropDownTest()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.DropDownTest@dd8ba08]" started-at="2022-10-05T23:32:05 EDT" name="simpleDropDownTest" finished-at="2022-10-05T23:32:05 EDT" duration-ms="164" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- simpleDropDownTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.DropDownTest@dd8ba08]" started-at="2022-10-05T23:32:05 EDT" name="tearDown" finished-at="2022-10-05T23:32:05 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.DropDownTest@dd8ba08]" started-at="2022-10-05T23:32:05 EDT" name="setUp" finished-at="2022-10-05T23:32:08 EDT" duration-ms="2993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="titleTest()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.DropDownTest@dd8ba08]" started-at="2022-10-05T23:32:08 EDT" name="titleTest" finished-at="2022-10-05T23:32:08 EDT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.DropDownTest@dd8ba08]" started-at="2022-10-05T23:32:08 EDT" name="tearDown" finished-at="2022-10-05T23:32:08 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com_dol_tests.day09_testng_dropdowns.DropDownTest -->
+      <class name="com_dol_tests.day08_implicitwait_checkbox_radio_testing.TestNGIntro">
+        <test-method signature="test1()[pri:0, instance:com_dol_tests.day08_implicitwait_checkbox_radio_testing.TestNGIntro@4f18837a]" started-at="2022-10-05T23:31:57 EDT" name="test1" finished-at="2022-10-05T23:31:57 EDT" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method signature="test2()[pri:0, instance:com_dol_tests.day08_implicitwait_checkbox_radio_testing.TestNGIntro@4f18837a]" started-at="2022-10-05T23:31:57 EDT" name="test2" finished-at="2022-10-05T23:31:57 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- com_dol_tests.day08_implicitwait_checkbox_radio_testing.TestNGIntro -->
+      <class name="com_dol_tests.day09_testng_dropdowns.TestNGIntro">
+        <test-method is-config="true" signature="setUpApp()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.TestNGIntro@6069db50]" started-at="2022-10-05T23:32:08 EDT" name="setUpApp" finished-at="2022-10-05T23:32:08 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpApp -->
+        <test-method is-config="true" signature="cleanUp()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.TestNGIntro@6069db50]" started-at="2022-10-05T23:32:08 EDT" name="cleanUp" finished-at="2022-10-05T23:32:08 EDT" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method is-config="true" signature="setUpApp()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.TestNGIntro@6069db50]" started-at="2022-10-05T23:32:08 EDT" name="setUpApp" finished-at="2022-10-05T23:32:08 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpApp -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.TestNGIntro@6069db50]" started-at="2022-10-05T23:32:08 EDT" name="tearDown" finished-at="2022-10-05T23:32:08 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.TestNGIntro@6069db50]" started-at="2022-10-05T23:32:08 EDT" name="tearDown" finished-at="2022-10-05T23:32:08 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method signature="myTest2()[pri:2, instance:com_dol_tests.day09_testng_dropdowns.TestNGIntro@6069db50]" started-at="2022-10-05T23:32:08 EDT" name="myTest2" finished-at="2022-10-05T23:32:08 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myTest2 -->
+        <test-method signature="test1()[pri:1, instance:com_dol_tests.day09_testng_dropdowns.TestNGIntro@6069db50]" started-at="2022-10-05T23:32:08 EDT" name="test1" finished-at="2022-10-05T23:32:08 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com_dol_tests.day09_testng_dropdowns.TestNGIntro@6069db50]" started-at="2022-10-05T23:32:08 EDT" name="setUp" finished-at="2022-10-05T23:32:08 EDT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com_dol_tests.day09_testng_dropdowns.TestNGIntro -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
